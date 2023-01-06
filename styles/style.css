@@ -122,7 +122,18 @@ main{
 
 .plan .planBox .planBoxCon{
     padding: 30px 25px;
+}
+
+.plan .planBox .planOne{
+    background-color: #EDF5F6;
+}
+
+.plan .planBox .planTwo{
     background-color: #FFEEEE;
+}
+
+.plan .planBox .planThree{
+    background-color: #FFF4D6;
 }
 
 .plan .planBox .planBoxCon h4{
